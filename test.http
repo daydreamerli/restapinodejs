@@ -1,0 +1,13 @@
+
+
+# HEAD http://restful.dev/wp-json/wp/v2/posts/4
+
+# GET https://reqres.in/api/users/2
+
+POST  https://reqres.in/api/login
+content-type: application/json
+
+ {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+ }
